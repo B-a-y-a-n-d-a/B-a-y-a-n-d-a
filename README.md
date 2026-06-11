@@ -2,7 +2,7 @@
 <h3 align="center">A Zealous backend developer and java enthusiastic</h3>
 <img  align="right" alt="Coding" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCgqE_hUBnFrHvPhkEG3EtBFHtsk3VNskRA&usqp=CAU" >
 
-- 🌱 I’m currently learning **AEM**
+- 🌱 I’m currently learning **Microsoft Azure Developer Associate**
 
 - 💬 Ask me about **java, JEE/Springboot framework,javascript,node.js, express, python,mySQL, mongoDB & Reactjs framework**
 
